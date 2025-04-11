@@ -7,11 +7,11 @@ This mod replaces the skull and flag graphics, displayed over a unit as it dies 
 
 ### How do I install this?
 
-Emperor of the Fading Suns version 1.52 is needed].
+Emperor of the Fading Suns version 1.52 is needed.
 
 ##### If you are using no other mod:
-  1. Open the [```SmallerSkull.zip```](SmallerSkull.zip) archive 
-  2. Extract both the ```mod.ini``` file and ```MOD``` folder directly into your root Emperor of the Fading Suns folder
+  1. Open the [```SmallerSkull.zip```](SmallerSkull.zip) archive.
+  2. Extract both the ```mod.ini``` file and ```MOD``` folder directly into your root Emperor of the Fading Suns folder.
   3. You're done!
 
 ##### If you *are* using other mods already:
